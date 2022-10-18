@@ -1,4 +1,4 @@
 # Landing Page Portfolio template 
 
 #### Will be enhanced soon 
-[![Heroku](https://heroku-badge.herokuapp.com/?app=heroku-badge)]
+[![Gem Version](https://badge.fury.io/rb/heroku-runtime-api.svg)](https://badge.fury.io/rb/heroku-runtime-api)
