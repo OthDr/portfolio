@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-### Landing Page Portfolio template 
+# Landing Page Portfolio template 
 
 #### Will be enhanced soon 
-
+[![Heroku](https://heroku-badge.herokuapp.com/?app=heroku-badge)]
