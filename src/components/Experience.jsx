@@ -25,7 +25,7 @@ const Experience = () => {
   }, []);
   return (
     <>
-      <div name='Experience' className='w-full h-screen bg-slate-50 px-2 py-6 md:py-12'>
+      <div name='Experience' className='w-full h-screen bg-gradient-to-b to-slate-50/60 from-sky-50 px-2 pt-16'>
         <h1 data-aos="zoom-out-down"  className='text-3xl md:text-5xl font-bold text-sky-400 text-center p-2'>Experience</h1>
 
         <div data-aos="zoom-out-up" className='p-2 grid grid-cols-2 md:grid-cols-3 gap-1 md:gap-3 md:px-6'>

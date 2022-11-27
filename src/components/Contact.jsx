@@ -48,7 +48,7 @@ const Contact = () => {
 
   return (
     <>
-      <div name='Contact' className='w-full h-screen flex flex-col justify-center items-center bg-slate-900 pt-2 md:pt-14'>
+      <div name='Contact' className='w-full min-h-screen flex flex-col justify-center items-center bg-slate-900 pt-2 md:pt-14'>
         <div className='mx-auto flex flex-col lg:flex-row items-center '>
 
           <div className='w-[90vw] md:max-w-[500px] flex flex-col justify-center '>
