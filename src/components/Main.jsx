@@ -18,7 +18,7 @@ const Main = () => {
           <h2 className='font-bold text-3xl md:text-5xl text-sky-500 px-2 text-center md:text-left'>
             About me
           </h2>
-          <p className='max-w-md md:max-w-3xl text-sm md:text-lg p-2 text-slate-500 text-center md:text-left'>I am a second
+          <p className='max-w-md md:max-w-3xl text-sm font-semibold md:text-lg mt-2 p-2 text-slate-500 text-center md:text-left'>I am a second
             year master student in the Information Systems Engineering, I code in many languages with diffrent purposes Web,
             Mobile,Desktop,DataScience ...,
             actually I'm focused in the web so I build full-stack projects starting from the Client to the API.If you want
