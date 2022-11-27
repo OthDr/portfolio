@@ -9,7 +9,7 @@ const Footer = () => {
   return (
     <>
       <div className='w-full flex flex-col items-center justify-center p-6 md:p-12 bg-slate-900 border-t-2 border-sky-900'>
-        <h2 className='text-md text-sky-600'>E-mail: otmax.vft@gmail.com </h2>
+        <h2 className='text-md text-sky-600 cursor-pointer'>oth.derrar@gmail.com </h2>
         <div className='flex items-center py-4 md:py-8'>
           <a href='https://github.com/OthDr'> <FaGithubSquare className='text-slate-500 hover:text-sky-400 hover:scale-105 ' size={30} /> </a>
           <a href='https://www.linkedin.com/in/othmane-derrar-531739225'> <FaLinkedin className='text-slate-500 hover:text-sky-400 hover:scale-105 ' size={30} /> </a>

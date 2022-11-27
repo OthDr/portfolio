@@ -18,7 +18,7 @@ const Header = () => {
 
   return (
     <>
-      <div data-aos="zoom-out-up" name='Header' className='w-full h-screen flex flex-row items-center justify-center px-2 py-6 md:px-6 md:py-12 bg-gradient-to-br to-slate-900/90 from-sky-900/5'>
+      <div data-aos="zoom-out-up" name='Header' className='w-full h-screen flex flex-row items-center justify-center px-2 py-6 md:px-6 md:py-12 bg-gradient-to-b to-slate-900 from-sky-900'>
         <div  className='flex md:flex-row flex-col items-center '>
           <div className='flex flex-col items-center md:items-start text-center md:text-start py-8 md:px-4 md:ml-2 '>
             <p className='w-full text-sm md:text-lg font-bold text-sky-400'>Hi there. I am</p>
